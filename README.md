@@ -30,7 +30,5 @@ SB Works is a full-stack web application built with the MERN stack (MongoDB, Exp
 
 ---
 
-## 🚀 Installation and Setup:
 
-1. **Clone the repository:**
       
